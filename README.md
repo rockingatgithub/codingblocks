@@ -1,0 +1,2 @@
+# codingblocks
+about algorithm 
